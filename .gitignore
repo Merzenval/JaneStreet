@@ -1,3 +1,5 @@
 jane-street-real-time-market-data-forecasting.zip
 data/
 download_model/
+train_data.parquet
+validate_data.parquet
