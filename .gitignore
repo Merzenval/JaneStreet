@@ -2,3 +2,4 @@ jane-street-real-time-market-data-forecasting.zip
 data/
 download_model/
 model/XGBoost_voting_ensemble4.pkl
+lightning_logs/
