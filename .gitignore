@@ -3,3 +3,8 @@ data/
 download_model/
 model/XGBoost_voting_ensemble4.pkl
 lightning_logs/
+tmp/
+test_output_dir/
+sth/
+cash/
+data_for_nn/
